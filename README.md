@@ -1,6 +1,6 @@
 # LEME: an open-source domain-specific Large Language Model in ophthalmology
 
-Explore our [LEME](https://huggingface.co/hippocrates/fine-tuned_ophomology_llama70b) (**L**anguage **E**nhanced **M**odel for **E**ye) model on Hugging Face! LEME was trained using the [Llama-2-70B](https://huggingface.co/meta-llama/Llama-2-70b-hf) framework and curated over 110,000 instructions from 19 subtasks, sourced from a vast pool of over 130,000 domainophthalmology-specific related ophthalmology data sources, including literature, patient case reports, and educational materials. You can also access the [instruction fine-tuning datasets and internal test dataset](https://huggingface.co/datasets/hippocrates/Ophtho_Instruction_FT_train) directly on Hugging Face.
+Explore our [LEME](https://huggingface.co/hippocrates/leme_70b) (**L**anguage **E**nhanced **M**odel for **E**ye) model on Hugging Face! LEME was trained using the [Llama-2-70B](https://huggingface.co/meta-llama/Llama-2-70b-hf) framework and curated over 110,000 instructions from 19 subtasks, sourced from a vast pool of over 130,000 domainophthalmology-specific related ophthalmology data sources, including literature, patient case reports, and educational materials. You can also access the [instruction fine-tuning datasets and internal test dataset](https://huggingface.co/datasets/hippocrates/Ophtho_Instruction_FT_train) directly on Hugging Face.
 
 ## Running the prediction script for GPT models
 
